@@ -1,3 +1,5 @@
+##转载于OpenI,侵权请联系删除
+
 # WuDao-Model
 
 “悟道”项目现有7个开源模型成果，模型参数文件需到[悟道平台](https://resource.wudaoai.cn/home)进行下载申请，该项目仓库提供模型介绍及源代码。
